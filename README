@@ -1,3 +1,12 @@
+**Note**: this is not the official wy60 repository, it resides at:
+
+  https://code.google.com/p/wy60/
+
+This copy was made from Google Code upon its shutdown notice, as I depend on
+the software.
+
+----
+
 While all modern POSIX based applications that require control of a
 text terminal use either termcap or terminfo to determine escape
 sequences, there are still old legacy applications that use hard coded
